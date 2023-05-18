@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ApplicationSettings>
+	<WindowWidth>1000</WindowWidth>
+	<WindowHeight>600</WindowHeight>
+	<ShowTrayInfo>True</ShowTrayInfo>
+	<WindowState>Normal</WindowState>
+	<StartWithWindows>False</StartWithWindows>
+	<IsAuthenticated>False</IsAuthenticated>
+</ApplicationSettings>
