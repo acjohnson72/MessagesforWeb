@@ -13,3 +13,8 @@ The application is written simply to have Messages run on the local machine and 
 
 
 More features/options may follow...
+
+
+
+### Screenshots
+![Screenshot of main window.](/Screenshots/messages.google.com_web_conversations.png)
